@@ -1,11 +1,11 @@
-
+---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 👋 Hi, I'm **Jianlei Chang**
 I am a first-year Master's student at Xi'an Jiaotong University (XJTU), advised by Prof. Xiangyu Xu.  My research is focused on **Embodied Intelligence**, **Generative AI**, and **Robotics**.
 
