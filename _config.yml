@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png" # Placeholder for your profile picture
   name             : "Jianlei Chang"
   # pronouns         : # example: "she/her"  
-  bio              : "M.Eng. student at XJTU in AI & Robotics. Researching Embodied Intelligence & Generative AI. Captain of XJTU Robotics Team, winner of 4 National First Prizes at ROBOCON 2024."
+  bio              : "M.Eng. student at XJTU in AI & Robotics. Researching Embodied Intelligence & Generative AI."
   location         : "Xi'an, China" # Inferred from University
   employer         : "Xi'an Jiaotong University"
   # uri              : # URL
