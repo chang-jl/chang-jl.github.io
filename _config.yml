@@ -22,7 +22,7 @@ repository               : "chang-jl/chang-jl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # Placeholder for your profile picture
+  avatar           : "一寸.jpg" # Placeholder for your profile picture
   name             : "Jianlei Chang"
   # pronouns         : # example: "she/her"  
   bio              : "M.Eng. student at XJTU in AI & Robotics. Researching Embodied Intelligence & Generative AI."
