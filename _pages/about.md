@@ -6,11 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 --->
-My name is Jianlei Chang, and I am a first-year Master's student at Xi'an Jiaotong University (XJTU), advised by Prof. Xiangyu Xu. My research is focused on Embodied Intelligence and Generative AI.
+👋 Hi, I'm **Jianlei Chang**
+I am a first-year Master's student at Xi'an Jiaotong University (XJTU), advised by Prof. Xiangyu Xu.  My research is focused on **Embodied Intelligence**, **Generative AI**, and **Robotics**.
 
-I completed my undergraduate studies in Automation at XJTU. During my undergraduate years, I developed a strong passion for robotics and served as the Captain of the XJTU ROBOCON Team. In this role, I led our team through various technical challenges, gaining extensive hands-on experience in robot design, development, and debugging.
+- 🔭 **Current Research**: I am the co-first author of the upcoming paper **"EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI"** (to appear in AAAI 2026). This work introduces a novel equivariant flow-based policy that achieves state-of-the-art performance while significantly improving data efficiency and inference speed on robotic manipulation benchmarks.
+
+- 🏆 **Competitions & Awards**:
+  - As the **Captain** of the **XJTU Robotics Team**, I led our team to win **4 National First Prizes** at the 2024 ROBOCON National Robot Contest, where I was also honored with the **Outstanding Captain Award**.
+  - My leadership and technical contributions have also led to a National Third Place, a Best Design Award in 2023 ROBOCON, and a Provincial Gold Award in the China International College Students' Innovation Competition.
+    
+
+
 
 <!---
+I completed my undergraduate studies in Automation at XJTU. During my undergraduate years, I developed a strong passion for robotics and served as the Captain of the XJTU ROBOCON Team. In this role, I led our team through various technical challenges, gaining extensive hands-on experience in robot design, development, and debugging.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
