@@ -12,7 +12,7 @@ I am a first-year Master's student at Xi'an Jiaotong University (XJTU), advised 
 
 - 🏆 **Competitions & Awards**:
   - As the **Captain** of the **XJTU Robotics Team**, I led our team to win **4 National First Prizes** at the 2024 ROBOCON National Robot Contest, where I was also honored with the **Outstanding Captain Award**.
-  - My leadership and technical contributions have also led to a National Third Place, a Best Design Award in 2023 ROBOCON, and a Provincial Gold Award in the China International College Students' Innovation Competition.
+  - In the 2023 ROBOCON Equestrian Competition, I won a National Third Place and a Best Design Award.
  
 - 🤖 **Work Experience**:
   - Robotics Research Intern at **OPPO**, Dongguan, 2025.07 - 2025.11
