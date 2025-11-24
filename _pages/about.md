@@ -8,7 +8,8 @@ redirect_from:
 👋 Hi, I'm **Jianlei Chang**
 I am a first-year Master's student at Xi'an Jiaotong University (XJTU), advised by Prof. Xiangyu Xu.  My research is focused on **Embodied Intelligence**, **Generative AI**, and **Robotics**.
 
-- 🔭 **Current Research**: I am the co-first author of the upcoming paper **"EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI"** (to appear in AAAI 2026). This work introduces a novel equivariant flow-based policy that achieves state-of-the-art performance while significantly improving data efficiency and inference speed on robotic manipulation benchmarks.
+- 🔭 **Current Research**: 
+  - **[EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI](https://efficientflow.github.io)** (AAAI 2026). This work introduces a novel equivariant flow-based policy that achieves state-of-the-art performance while significantly improving data efficiency and inference speed on robotic manipulation benchmarks.
 
 - 🏆 **Competitions & Awards**:
   - As the **Captain** of the **XJTU Robotics Team**, I led our team to win **4 National First Prizes** at the 2024 ROBOCON National Robot Contest, where I was also honored with the **Outstanding Captain Award**.
