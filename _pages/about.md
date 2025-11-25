@@ -12,7 +12,7 @@ I am a first-year Master's student at Xi'an Jiaotong University (XJTU), advised 
   - **[EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI](https://efficientflow.github.io)** (AAAI 2026). This work introduces a novel equivariant flow-based policy that achieves state-of-the-art performance while significantly improving data efficiency and inference speed on robotic manipulation benchmarks.
 
 - 🏆 **Competitions & Awards**:
-  - As the **Captain** of the **XJTU Robotics Team**, I led our team to win **4 National First Prizes** at the 2024 ROBOCON National Robot Contest, where I was also honored with the **Outstanding Captain Award**.
+  - As the **Captain** of the **XJTU Robotics Team**, I led our team to win **5 National First Prizes** at the 2024 [ROBOCON](http://cnrobocon.net/) National Robot Contest, where I was also honored with the **Outstanding Captain Award**.
   - In the 2023 ROBOCON Equestrian Competition, I won a National Third Place and a Best Design Award.
  
 - 🤖 **Work Experience**:
